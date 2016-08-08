@@ -1,0 +1,25 @@
+_repo: Meetkundig-Schoolboek_11899
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sluijters, Hendrik
+    alias: Sluijters, H.
+    birthdate: 1807
+    deathdate: 1859
+    gutenberg_agent_id: '4125'
+    url: http://www.gutenberg.org/2009/agents/4125
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11899'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Geometry'
+- !lcc 'QA'
+- GITenberg
+title: Meetkundig Schoolboek
+url: http://www.gutenberg.org/ebooks/11899
